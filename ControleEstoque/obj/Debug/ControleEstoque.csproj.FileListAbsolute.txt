@@ -1,0 +1,7 @@
+C:\Users\Julia\source\repos\ControleEstoque\ControleEstoque\bin\Debug\ControleEstoque.exe.config
+C:\Users\Julia\source\repos\ControleEstoque\ControleEstoque\bin\Debug\ControleEstoque.exe
+C:\Users\Julia\source\repos\ControleEstoque\ControleEstoque\bin\Debug\ControleEstoque.pdb
+C:\Users\Julia\source\repos\ControleEstoque\ControleEstoque\obj\Debug\ControleEstoque.csproj.AssemblyReference.cache
+C:\Users\Julia\source\repos\ControleEstoque\ControleEstoque\obj\Debug\ControleEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Julia\source\repos\ControleEstoque\ControleEstoque\obj\Debug\ControleEstoque.exe
+C:\Users\Julia\source\repos\ControleEstoque\ControleEstoque\obj\Debug\ControleEstoque.pdb
